@@ -1,0 +1,35 @@
+.sidedateright{
+    text-align:left;
+}
+.line{
+    border-collapse: 100px solid black;
+    border-top: 5px solid black;
+}
+.des{
+    text-align: center;
+    font-size: 2px solid black;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+}
+.head{
+    font-size: 40px;
+    border-bottom: 5px;
+    margin-right:400;
+
+    
+}
+.myrow{
+    text-align: justify;
+}   
+.red{
+    color: red;
+    background-color:maroon;
+    border: 5px;
+    font-size: 20px;
+}
+.redpara{
+    color:red;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
